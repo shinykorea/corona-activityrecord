@@ -1,5 +1,9 @@
 # corona-activityrecord: 코로나 활동 기록
 
+## 2020-03-02
+### 프로토타입 애플리케이션 Deploy
+- 음압병동현황: https://github.com/shinykorea/corona-sickbed
+- corona-triage: https://github.com/shinykorea/corona-triage
 
 ## 2020-03-01
 
