@@ -1,5 +1,12 @@
 # corona-activityrecord: 코로나 활동 기록
 
+## 2020-03-04
+### 경기도청 미팅
+- 시간: 오후 4시
+- 장소: 경기도청 신관
+- 내용: 진행상황 및 가이드라인 공유
+- 참석: 나영준
+
 ## 2020-03-02
 ### 프로토타입 애플리케이션 Deploy
 - 음압병동현황: https://github.com/shinykorea/corona-sickbed
